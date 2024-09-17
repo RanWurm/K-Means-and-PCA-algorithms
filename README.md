@@ -45,6 +45,9 @@ The main goal of this exercise is to provide hands-on experience with various ma
 # sixth iteration
 ![image](https://github.com/user-attachments/assets/bf3c38c2-2b31-424c-a4bd-bf29688829b9)
 
+### PCA
+# MNIST
+![image](https://github.com/user-attachments/assets/5a3f9311-db36-4cc5-84f4-d963df09ee55)
 
 
 ### Usage

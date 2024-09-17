@@ -35,10 +35,21 @@ The main goal of this exercise is to provide hands-on experience with various ma
 5. **Advanced Topics**
    - An introduction to more complex areas of machine learning, such as ensemble methods and deep learning (if covered in the notebook).
 
+### Kmeans 
+# first iteration
+![image](https://github.com/user-attachments/assets/670a998f-c4bd-4c9e-8804-8a8dde8bb430)
+
+# third iteration
+![image](https://github.com/user-attachments/assets/f0a9cd6e-a0e3-475f-99e0-e27133514f13)
+
+# sixth iteration
+![image](https://github.com/user-attachments/assets/bf3c38c2-2b31-424c-a4bd-bf29688829b9)
+
+
+
 ### Usage
 
 #### Environment Setup
-
 Ensure you have a Python environment ready with Jupyter Notebook installed. You can set up a virtual environment and install all required dependencies via pip:
 
 ```bash
@@ -60,12 +71,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 For more information, please contact [RanWurembrand@gmail.com].
 
-### Kmeans 
-# first iteration
-![image](https://github.com/user-attachments/assets/670a998f-c4bd-4c9e-8804-8a8dde8bb430)
-
-# third iteration
-![image](https://github.com/user-attachments/assets/f0a9cd6e-a0e3-475f-99e0-e27133514f13)
 
 
-#
+
+
